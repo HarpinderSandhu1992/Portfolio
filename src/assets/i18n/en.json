@@ -1,0 +1,48 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Projects",
+  "Header.Item3": "Contact",
+  "Header.cvName": "CV_Jose_Hernandez_Spanish.pdf",
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I have <span class='underline'>8 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and <span class='underline'>Laravel</span>, applying good practices and development standards.",
+  "Banner.ActionBtn": "Say Hi",
+
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "In <span class='underline'>8 years of experience</span> I have covered many roles: <span class='underline'>Systems Analyst</span>, <span class='underline'>Backend Developer</span>, <span class='underline'>Frontend Developer</span>, and <span class='underline'>Technical Lead</span>. I love contributing my knowledge to create new things that help solve problems.",
+    "My capabilities also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I am working on.",
+    "I also program things for my personal use, whether for hobby or utility.",
+    "Some of the technologies I have trained and worked with include (but are not limited to):"
+  ],
+
+  "FeatureProjects.Title": "Projects",
+  "FeatureProjects.Label": "Highlighted Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Homes",
+      "Description": "<span class='underline'>Angular</span> based, Web application project for property purchases.",
+      "imgs": [
+        "assets/images/homes/sc1.png",
+        "assets/images/homes/sc2.png",
+        "assets/images/homes/sc3.png"
+      ],
+      "Technologies": ["Angular", "Express"]
+    },
+    {
+      "Title": "To - Do App",
+      "Description": "Monitoring application in order to track and alter tasks that are assigned to employees, made with <span class='underline'>Angular.</span>",
+      "imgs": [
+        "assets/images/todo/sc1.png",
+        "assets/images/todo/sc2.png",
+        "assets/images/todo/sc3.png",
+        "assets/images/todo/sc4.png"
+      ],
+      "Technologies": ["Angular", "Java Script", "Node", "MySQL"]
+    }
+  ],
+  "Contact.Pretitle": "And... Now?",
+  "Contact.Title": "Say Hi!",
+  "Contact.Content": "I will be glad to hear from you if you want to discuss new opportunities. Write to me, and I will respond as soon as I see your message.",
+  "Contact.Btn": "Contact Me"
+}
